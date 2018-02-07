@@ -1,0 +1,5 @@
+{
+  "uuid": "%uuid%",
+  "name": "Pilzkiste",
+  "mainClass": "net.pilzkiste.addon.labymod.Main"
+}
