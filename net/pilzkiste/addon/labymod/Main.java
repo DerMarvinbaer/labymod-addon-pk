@@ -39,6 +39,7 @@ public class Main extends LabyModAddon {
         knockbattle = getConfig().has( "enabledKnockBattle" ) ? getConfig().get( "enabledKnockBattle" ).getAsBoolean() : true;
         knockffa = getConfig().has( "enabledKnockFFA" ) ? getConfig().get( "enabledKnockFFA" ).getAsBoolean() : true;
         rebuild = getConfig().has( "enabledRebuild" ) ? getConfig().get( "enabledRebuild" ).getAsBoolean() : true;
+        nickname = getConfig().has( "enabledNickname" ) ? getConfig().get( "enabledNickname" ).getAsBoolean() : true;
     }
 
 
